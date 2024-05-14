@@ -1,5 +1,5 @@
 # Notebook_Pinguins_TicTrilhas
-Exercício de apredizagem referentes ao Módulo 1 - Introdução ao Machine Learning TIC - Trilhas: Criação de um Notebook com visualizações fundamentais para o DataSet Pinguins.
+Exercício de apredizagem referente ao Módulo 1 - Introdução ao Machine Learning TIC - Trilhas: Criação de um Notebook com visualizações fundamentais para o DataSet Pinguins.
 
 ## Tecnologias Utilizadas
 
